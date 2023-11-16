@@ -3,6 +3,9 @@
 <h5 align="left">🔭 Here is where I store the codes written for financial risks calculation</h5>
 <br/>
 <h3 align="left">My technical skills</h3>
+<h5 align="left">Langauges:</h5>
+:england:English  :hong_kong:Cantonese  :cn:Mandarin  :es:Spanish
+
 <h5 align="left">Modelling and Programming:</h5>
 
 ![Excel](https://img.shields.io/badge/Excel-microsoft?logo=microsoft%20Excel)
