@@ -1,8 +1,9 @@
+![image](https://github.com/Colexd0124/Colexd0124/assets/74039382/8af57a37-d7c4-401d-ad1b-6d45aeff0178)
+
 <h1 align="left">Hola!👋</h1>
-<h3 align="left">I am Coleman, a market risk analyst for Intesa Sanpaolo HK</h3>
-<h5 align="left">🔭 Here is where I store the codes written for financial risks calculation</h5>
+<h3 align="left">I am Coleman, a market risk analyst from Hong Kong and currently working at Intesa Sanpaolo</h3>
+🔭 Here is where I store the codes written for financial risks calculation
 <br/>
-<h3 align="left">What I know and improvising:</h3>
 <h5 align="left">Langauges:</h5>
 :england:English  :hong_kong:Cantonese  :cn:Mandarin  :es:Spanish
 
