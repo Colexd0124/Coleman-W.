@@ -1,7 +1,7 @@
 ![image](https://github.com/Colexd0124/Colexd0124/assets/74039382/86027d0a-4f10-42e4-8011-e76056ded045)
 
 <h1 align="left">Hola!👋</h1>
-<h3 align="left">I am Coleman, a market risk analyst from Hong Kong and currently working at Intesa Sanpaolo</h3>
+<h3 align="left">I am Coleman, a market risk analyst from Hong Kong</h3>
 🔭 Here is where I store the codes written for financial risks calculation
 <br/>
 <h5 align="left">Langauges:</h5>
