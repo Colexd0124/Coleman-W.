@@ -1,4 +1,4 @@
-![image](https://github.com/Colexd0124/Colexd0124/assets/74039382/8af57a37-d7c4-401d-ad1b-6d45aeff0178)
+![image](https://github.com/Colexd0124/Colexd0124/assets/74039382/86027d0a-4f10-42e4-8011-e76056ded045)
 
 <h1 align="left">Hola!👋</h1>
 <h3 align="left">I am Coleman, a market risk analyst from Hong Kong and currently working at Intesa Sanpaolo</h3>
